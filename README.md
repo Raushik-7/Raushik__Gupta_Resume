@@ -1,25 +1,3 @@
-# DiscoverYourHome 🏠
-A web-based application to predict house prices across India using Machine Learning models.  
-Built with Streamlit, Flask, Firebase, and Google Maps API for an interactive and data-driven experience.
-## ✨ Features
-- Predict house prices using Random Forest ML model.
-- Data preprocessing with Pandas and NumPy.
-- Similarity-based recommendation system with Scikit-learn.
-- Streamlit UI for interactive predictions.
-- Flask backend with Firebase database.
-- Google Maps API integration for location visualization.
-- ## 🛠 Tech Stack
-- **Languages:** Python, HTML, CSS, JavaScript
-- **Libraries:** Pandas, NumPy, Scikit-learn
-- **Frontend:** Streamlit
-- **Backend:** Flask
-- **Database:** Firebase
-- **API Integration:** Google Maps
-
-
-
-
-
 # MahaMove AI 🚦
 
 ### AI-Powered Transportation & Mobility Management Platform for Mahakumbh
@@ -97,7 +75,29 @@ npm run dev
 
 Developed for the **Transportation & Mobility Management Challenge**, demonstrating how AI-driven analytics and modern web technologies can improve transportation planning, crowd management, and commuter guidance during large-scale events like Mahakumbh.
 
+
+
+
+# DiscoverYourHome 🏠
+A web-based application to predict house prices across India using Machine Learning models.  
+Built with Streamlit, Flask, Firebase, and Google Maps API for an interactive and data-driven experience.
+## ✨ Features
+- Predict house prices using Random Forest ML model.
+- Data preprocessing with Pandas and NumPy.
+- Similarity-based recommendation system with Scikit-learn.
+- Streamlit UI for interactive predictions.
+- Flask backend with Firebase database.
+- Google Maps API integration for location visualization.
+- ## 🛠 Tech Stack
+- **Languages:** Python, HTML, CSS, JavaScript
+- **Libraries:** Pandas, NumPy, Scikit-learn
+- **Frontend:** Streamlit
+- **Backend:** Flask
+- **Database:** Firebase
+- **API Integration:** Google Maps
+
 ---
+
 
 ## 👨‍💻 Developer
 
